@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-![404 Not Found] (https://ismailco.github.io/Devchalenges/404 Not found/index.html)
+[404 Not Found](https://ismailco.github.io/Devchalenges/404 Not found/index.html)
 
 ## Built With
 
